@@ -32,3 +32,21 @@ img {
     padding: 10px;
 }
 
+.container {
+  display: flex; /* Magic starts here, turning your container into a flex container */
+  justify-content: center; /* This centers the child horizontally */
+  align-items: center; /* And this centers it vertically */
+  height: 100vh; /* This will make sure your container is as tall as the entire viewport */
+}
+.center {
+  width: 50%; /* Set any width you prefer */
+  height: 50%; /* And any height */
+}
+
+ .contenedor {
+            text-align: center; /* Centra el contenido del div */
+        }
+        .imagen {
+            margin: 10px; /* Espaciado entre las imágenes */
+        }
+
