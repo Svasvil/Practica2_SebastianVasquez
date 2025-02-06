@@ -33,20 +33,20 @@ img {
 }
 
 .container {
-  display: flex; /* Magic starts here, turning your container into a flex container */
-  justify-content: center; /* This centers the child horizontally */
-  align-items: center; /* And this centers it vertically */
-  height: 100vh; /* This will make sure your container is as tall as the entire viewport */
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
 }
 .center {
-  width: 50%; /* Set any width you prefer */
-  height: 50%; /* And any height */
+  width: 50%; 
+  height: 50%; 
 }
 
  .contenedor {
-            text-align: center; /* Centra el contenido del div */
+            text-align: center; 
         }
         .imagen {
-            margin: 10px; /* Espaciado entre las imágenes */
+            margin: 10px; 
         }
 
